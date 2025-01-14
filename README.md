@@ -1,4 +1,4 @@
-# Hi there, I'm [Hoàng Bảo Khanh]! 👋
+# Hi there, I'm Hoàng Bảo Khanh! 👋
 
 ## About Me
 
@@ -33,10 +33,10 @@ I'm a passionate developer with a keen interest in Artificial Intelligence.
 
 ## GitHub Stats
 
-![hbkhanh22](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![hbkhanh22](https://github-readme-stats.vercel.app/api?username=hbkhanh22&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbkhanh22&layout=compact&theme=radical)
 <!-- Add more social links as needed -->
 *Note: To automatically update the blog post list, you can use GitHub Actions with a workflow that fetches your latest posts.*
 
